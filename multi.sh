@@ -42,6 +42,19 @@ rred(){
 		release="Centos"
     fi
 
+if ! type curl >/dev/null 2>&1; then
+	   yellow "curl 未安装，安装中 "
+           sudo apt update && apt install curl -y 
+           else
+           green "curl 已安装，继续 "
+fi
+
+        if ! type wget >/dev/null 2>&1; then
+           yellow "wget 未安装 安装中 "
+           sudo apt update && apt install wget -y 
+           else
+           green "wget 已安装，继续 "
+fi  
 
 bit=`uname -m`
 version=`uname -r | awk -F "-" '{print $1}'`
