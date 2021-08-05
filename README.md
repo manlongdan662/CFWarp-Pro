@@ -72,13 +72,11 @@ bash <(curl -sSL https://cdn.jsdelivr.net/gh/YG-tsj/CFWarp-Pro/root.sh)
 
 2：基本能隐藏VPS的真实IP！
 
-3：WARP分配的IPV4或者IPV6的IP段，都支持奈非Netflix流媒体，无视VPS原IP限制！
+3：加速VPS到CloudFlare CDN节点访问速度！
 
-4：加速VPS到CloudFlare CDN节点访问速度！
+4：避开原VPS的IP需要谷歌验证码问题！
 
-5：避开原VPS的IP需要谷歌验证码问题！
-
-6：原IPV4下，WARP的IPV6替代HE tunnelbroker IPV6的隧道代理方案，做IPV6 VPS跳板机代理更加稳定！
+5：原IPV4下，WARP的IPV6替代HE tunnelbroker IPV6的隧道代理方案，做IPV6 VPS跳板机代理更加稳定！
 ```
 </details>
 
