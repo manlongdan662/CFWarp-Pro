@@ -282,11 +282,12 @@ wg-quick up wgcf
 
 关闭systemctl disable wg-quick@wgcf
 
+-------------------------------------------------------------------------------------------------------
 
 ### TG群：https://t.me/joinchat/nrUoeEJV_9UxNDhl
 ### YouTube频道：https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w
 
-
+---------------------------------------------------------------------------------------------------------
 #### 感谢P3terx大及原创者们，参考来源：
 
 https://p3terx.com/archives/debian-linux-vps-server-wireguard-installation-tutorial.html
